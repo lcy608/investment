@@ -1,0 +1,434 @@
+{
+    "target_stocks": {
+        "032820": {
+            "open": 24700,
+            "close": 29300,
+            "high": 29800,
+            "triggers": [
+                {
+                    "id": "O+1.5%",
+                    "price": 25070.499999999996,
+                    "pct": 0.2
+                },
+                {
+                    "id": "O 0% ",
+                    "price": 24700.0,
+                    "pct": 0.3
+                },
+                {
+                    "id": "O-1.5%",
+                    "price": 24329.5,
+                    "pct": 0.5
+                }
+            ],
+            "config": 2,
+            "list_type": "수동",
+            "name": "우리기술",
+            "date": "20260318",
+            "val": 2097426
+        },
+        "010170": {
+            "open": 6020,
+            "close": 7160,
+            "high": 7160,
+            "triggers": [
+                {
+                    "id": "O+1.5%",
+                    "price": 6110.299999999999,
+                    "pct": 0.2
+                },
+                {
+                    "id": "O 0% ",
+                    "price": 6020.0,
+                    "pct": 0.3
+                },
+                {
+                    "id": "O-1.5%",
+                    "price": 5929.7,
+                    "pct": 0.5
+                }
+            ],
+            "config": 2,
+            "list_type": "수동",
+            "name": "대한광통신",
+            "date": "20260311",
+            "val": 452645
+        },
+        "006340": {
+            "open": 5710,
+            "close": 6510,
+            "high": 6830,
+            "triggers": [
+                {
+                    "id": "O+1.5%",
+                    "price": 5795.65,
+                    "pct": 0.2
+                },
+                {
+                    "id": "O 0% ",
+                    "price": 5710.0,
+                    "pct": 0.3
+                },
+                {
+                    "id": "O-1.5%",
+                    "price": 5624.35,
+                    "pct": 0.5
+                }
+            ],
+            "config": 2,
+            "list_type": "수동",
+            "name": "대원전선",
+            "date": "20260224",
+            "val": 794657
+        },
+        "000250": {
+            "open": 579000,
+            "close": 757000,
+            "high": 757000,
+            "triggers": [
+                {
+                    "id": "C+1.5%",
+                    "price": 768354.9999999999,
+                    "pct": 0.2
+                },
+                {
+                    "id": "C 0% ",
+                    "price": 757000.0,
+                    "pct": 0.3
+                },
+                {
+                    "id": "C-1.5%",
+                    "price": 745645.0,
+                    "pct": 0.5
+                }
+            ],
+            "config": 1,
+            "list_type": "수동",
+            "name": "삼천당제약",
+            "date": "20260226",
+            "val": 574696
+        },
+        "217590": {
+            "open": 23950,
+            "close": 27950,
+            "high": 28950,
+            "triggers": [
+                {
+                    "id": "O+1.5%",
+                    "price": 24309.249999999996,
+                    "pct": 0.2
+                },
+                {
+                    "id": "O 0% ",
+                    "price": 23950.0,
+                    "pct": 0.3
+                },
+                {
+                    "id": "O-1.5%",
+                    "price": 23590.75,
+                    "pct": 0.5
+                }
+            ],
+            "config": 2,
+            "list_type": "수동",
+            "name": "티엠씨",
+            "date": "20260323",
+            "val": 137302
+        },
+        "046120": {
+            "open": 11800,
+            "close": 13700,
+            "high": 13880,
+            "triggers": [
+                {
+                    "id": "O+1.5%",
+                    "price": 11976.999999999998,
+                    "pct": 0.2
+                },
+                {
+                    "id": "O 0% ",
+                    "price": 11800.0,
+                    "pct": 0.3
+                },
+                {
+                    "id": "O-1.5%",
+                    "price": 11623.0,
+                    "pct": 0.5
+                }
+            ],
+            "config": 2,
+            "list_type": "수동",
+            "name": "오르비텍",
+            "date": "20260320",
+            "val": 234817
+        },
+        "047040": {
+            "open": 14560,
+            "close": 16170,
+            "high": 17250,
+            "triggers": [
+                {
+                    "id": "O+1.5%",
+                    "price": 14778.399999999998,
+                    "pct": 0.2
+                },
+                {
+                    "id": "O 0% ",
+                    "price": 14560.0,
+                    "pct": 0.3
+                },
+                {
+                    "id": "O-1.5%",
+                    "price": 14341.6,
+                    "pct": 0.5
+                }
+            ],
+            "config": 2,
+            "list_type": "수동",
+            "name": "대우건설",
+            "date": "20260319",
+            "val": 1240206
+        },
+        "475150": {
+            "open": 43500,
+            "close": 53700,
+            "high": 54700,
+            "triggers": [
+                {
+                    "id": "O+1.5%",
+                    "price": 44152.49999999999,
+                    "pct": 0.2
+                },
+                {
+                    "id": "O 0% ",
+                    "price": 43500.0,
+                    "pct": 0.3
+                },
+                {
+                    "id": "O-1.5%",
+                    "price": 42847.5,
+                    "pct": 0.5
+                }
+            ],
+            "config": 2,
+            "list_type": "수동",
+            "name": "SK이터닉스",
+            "date": "20260319",
+            "val": 718468
+        },
+        "017900": {
+            "open": 2745,
+            "close": 3395,
+            "high": 3395,
+            "triggers": [
+                {
+                    "id": "O+1.5%",
+                    "price": 2786.1749999999997,
+                    "pct": 0.2
+                },
+                {
+                    "id": "O 0% ",
+                    "price": 2745.0,
+                    "pct": 0.3
+                },
+                {
+                    "id": "O-1.5%",
+                    "price": 2703.825,
+                    "pct": 0.5
+                }
+            ],
+            "config": 0,
+            "list_type": "자동",
+            "name": "광전자",
+            "date": "20260325",
+            "val": 100177
+        },
+        "027360": {
+            "open": 6700,
+            "close": 8520,
+            "high": 8520,
+            "triggers": [
+                {
+                    "id": "O+1.5%",
+                    "price": 6800.499999999999,
+                    "pct": 0.2
+                },
+                {
+                    "id": "O 0% ",
+                    "price": 6700.0,
+                    "pct": 0.3
+                },
+                {
+                    "id": "O-1.5%",
+                    "price": 6599.5,
+                    "pct": 0.5
+                }
+            ],
+            "config": 0,
+            "list_type": "자동",
+            "name": "아주IB투자",
+            "date": "20260325",
+            "val": 323889
+        },
+        "368770": {
+            "open": 17030,
+            "close": 21350,
+            "high": 21350,
+            "triggers": [
+                {
+                    "id": "C+1.5%",
+                    "price": 21670.249999999996,
+                    "pct": 0.2
+                },
+                {
+                    "id": "C 0% ",
+                    "price": 21350.0,
+                    "pct": 0.3
+                },
+                {
+                    "id": "C-1.5%",
+                    "price": 21029.75,
+                    "pct": 0.5
+                }
+            ],
+            "config": 1,
+            "list_type": "수동",
+            "name": "파이버프로",
+            "date": "20260324",
+            "val": 238535
+        }
+    },
+    "ordered_stocks": {
+        "006340": {
+            "avg_price": 5804,
+            "total_qty": 44,
+            "total_invested": 255376,
+            "hit_levels": [
+                "O+1.5%",
+                "O-1.5%",
+                "O 0% "
+            ],
+            "sold": false,
+            "trade_count": 1,
+            "pending_sell": false,
+            "pending_buy": false
+        },
+        "217590": {
+            "avg_price": 24434,
+            "total_qty": 11,
+            "total_invested": 268774,
+            "hit_levels": [],
+            "sold": false,
+            "trade_count": 1,
+            "pending_sell": false,
+            "pending_buy": false
+        },
+        "032820": {
+            "avg_price": 0,
+            "total_qty": 0,
+            "total_invested": 0,
+            "hit_levels": [],
+            "sold": false,
+            "trade_count": 1,
+            "pending_sell": false,
+            "pending_buy": false
+        },
+        "027360": {
+            "avg_price": 0,
+            "total_qty": 0,
+            "total_invested": 0,
+            "hit_levels": [],
+            "sold": false,
+            "trade_count": 1,
+            "pending_sell": false,
+            "pending_buy": false
+        },
+        "047040": {
+            "avg_price": 0,
+            "total_qty": 0,
+            "total_invested": 0,
+            "hit_levels": [],
+            "sold": false,
+            "trade_count": 1,
+            "pending_sell": false,
+            "pending_buy": false
+        },
+        "046120": {
+            "avg_price": 0,
+            "total_qty": 0,
+            "total_invested": 0,
+            "hit_levels": [],
+            "sold": false,
+            "trade_count": 1,
+            "pending_sell": false,
+            "pending_buy": false
+        },
+        "475150": {
+            "avg_price": 0,
+            "total_qty": 0,
+            "total_invested": 0,
+            "hit_levels": [],
+            "sold": false,
+            "trade_count": 1,
+            "pending_sell": false,
+            "pending_buy": false
+        },
+        "010170": {
+            "avg_price": 0,
+            "total_qty": 0,
+            "total_invested": 0,
+            "hit_levels": [],
+            "sold": false,
+            "trade_count": 1,
+            "pending_sell": false,
+            "pending_buy": false
+        },
+        "368770": {
+            "avg_price": 0,
+            "total_qty": 0,
+            "total_invested": 0,
+            "hit_levels": [],
+            "sold": false,
+            "trade_count": 1,
+            "pending_sell": false,
+            "pending_buy": false
+        },
+        "017900": {
+            "avg_price": 0,
+            "total_qty": 0,
+            "total_invested": 0,
+            "hit_levels": [],
+            "sold": false,
+            "trade_count": 1,
+            "pending_sell": false,
+            "pending_buy": false
+        },
+        "000250": {
+            "avg_price": 0,
+            "total_qty": 0,
+            "total_invested": 0,
+            "hit_levels": [],
+            "sold": false,
+            "trade_count": 1,
+            "pending_sell": false,
+            "pending_buy": false
+        },
+        "253590": {
+            "avg_price": 0,
+            "total_qty": 0,
+            "total_invested": 0,
+            "hit_levels": [],
+            "sold": true,
+            "trade_count": 1,
+            "pending_sell": false,
+            "pending_buy": false
+        }
+    },
+    "held_stock_codes": [
+        "006340",
+        "217590"
+    ],
+    "telegram_token": "8791191867:AAEBGI2tPnseb3nRACuUSV4Mj3eHB7tNr6w",
+    "telegram_chat_id": "750074413",
+    "is_telegram_enabled": true
+}
